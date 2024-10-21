@@ -10,7 +10,7 @@ Under Review
 
 ## Dataset Features
 
-* **Real-world Measurement Data**: Includes real-world signal data collected from 19 LTE and 5G bands.
+* **Real-world Measurement Data**: Includes real-world signal data collected from 19 different LTE and 5G bands with 48MHz bandwidth.
 * **Diverse Anomaly Signals**: Contains various types of simulated anomaly signals, including tone, chirp, and pulse signals.
 * **Realistic Simulation**: Employs realistically feasible random-based parameters and configured fading channels in accordance with 3GPP standards to simulate real-world conditions.
 * **Large-scale Dataset**: A comprehensive dataset comprising 85,500 samples across 19 bands.
@@ -18,8 +18,8 @@ Under Review
 
 ## Dataset Structure
 
-* **IQ Data**: Raw IQ data (`.bin` and `.json` files) measured for each band.
-* **Spectrogram Data**: Spectrogram data (`.npy` files) generated using Short Time Fourier Transform (STFT).
+* **IQ Data**: Raw IQ data (`.bin`) and Metadata (`.json`).
+* **Spectrogram Data**: Spectrogram data (`.npy` files) generated using Short Time Fourier Transform (STFT). 
 * **Labels**: Label data (`.csv` files) containing bounding box coordinates and Interference-to-Signal Ratio (ISR) information of anomaly signals.
 * **Data Loaders**: Example jupyter notebook (`.ipynb` files) for loading the IQ data, spectrogram datas into python workspaces.
 * **Anomaly Signal Generation Examples**: Example jupyter notebook (`.ipynb` files) for generating abnormal wireless signal (tone, chirp, pulse) with the fading model. The detailed process and information can be found in the paper.
