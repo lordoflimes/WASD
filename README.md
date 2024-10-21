@@ -30,7 +30,7 @@ Since the data amount is large to deal with one file (784.24GB), the compressed 
 
 * [**Chunk 1**](https://drive.google.com/file/d/1055_Mqq3iJJLVsYirFbKue0vz0quemtd/view?usp=drive_link)
 * [**Chunk 2**](https://drive.google.com/file/d/1upenUkhVKsFYPYQg494ShImL_CmGgNYz/view?usp=drive_link)
-* [**Chunk 3**](ttps://drive.google.com/file/d/1-7em96OKb4u4f3bOmnKWqq0iEe4bD19L/view?usp=drive_link)
+* [**Chunk 3**](https://drive.google.com/file/d/1-7em96OKb4u4f3bOmnKWqq0iEe4bD19L/view?usp=drive_link)
 * [**Chunk 4**](https://drive.google.com/file/d/1-8aqUargGx4K7RKx2O1rs-8s2_fH_AcW/view?usp=drive_link)
 * [**Chunk 5**](https://drive.google.com/file/d/1-CE2wfaSP_YbT407otkhS8055aF7o4WQ/view?usp=drive_link)
 * [**Chunk 6**](https://drive.google.com/file/d/1-PAfbavHwuxadLDEGF_Z-1L98mA8PON_/view?usp=drive_link)
