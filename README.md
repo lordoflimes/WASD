@@ -25,10 +25,8 @@ Under Review
 * **Anomaly Signal Generation Examples**: Example code for generating abnormal wireless signal (tone, chirp, pulse) with the fading model. The detailed information can be found in the paper.
 
 ## Dataset Access
-
-* **Total Size**: 784.24 (GB)
 The download link will be available soon.
-Since the data amount is large to deal with one file, the compressed file will be delivered as chunks.
+Since the data amount is large to deal with one file (784.24GB), the compressed file will be delivered as 50GB chunks.
 
 * **Chunk 1**
 * **Chunk 2**
