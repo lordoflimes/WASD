@@ -38,13 +38,13 @@ Since the data amount is large to deal with one file (784.24GB), the compressed 
 * [**Chunk 8**](https://drive.google.com/file/d/1-U_sTYDjCbRbm5eeK006iardzKrBWin0/view?usp=drive_link)
 * [**Chunk 9**](https://drive.google.com/file/d/1-Wi8xFGUZfHc9TYjzXKi2fwf7x1m7Ohu/view?usp=drive_link)
 * [**Chunk 10**](https://drive.google.com/file/d/1-_B0sLQ61jJpMn6cOZ0_IMfJ0hRTctiV/view?usp=drive_link)
-* [**Chunk 11**]
+* [**Chunk 11**]/uploading
 * [**Chunk 12**](https://drive.google.com/file/d/1-o3vpVnyXtH7Sn1XTrh9qWsm7YEDlYzg/view?usp=drive_link)
-* [**Chunk 13**]
-* [**Chunk 14**]
-* [**Chunk 15**]
-* [**Chunk 16**]
-* [**Chunk 17**]
+* [**Chunk 13**]/uploading
+* [**Chunk 14**]/uploading
+* [**Chunk 15**]/uploading
+* [**Chunk 16**]/uploading
+* [**Chunk 17**]/uploading
 
 ## Authors
 Jinha Kim (jinha.kim@o.cnu.ac.kr), Hyeongwoo Kim (Hyeongwoo.kim@o.cnu.ac.kr), Byungkwan Kim(byungkwan.kim@cnu.ac.kr)
