@@ -49,3 +49,4 @@ Jinha Kim (jinha.kim@o.cnu.ac.kr), Hyeongwoo Kim (Hyeongwoo.kim@o.cnu.ac.kr), By
 
 ## Acknowledgements
 This work was supported by the MSIT/IITP through the ICT R&D program (RS-2023-00229541).
+Thanks to HURA for excellent receiver development and support for this project.
