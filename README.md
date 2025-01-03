@@ -6,7 +6,7 @@
 WASD (Wireless Anomaly Signal Dataset) is designed for anomaly signal detection in wireless signals within fixed urban scenarios. It combines real-world signals measured across 19 LTE and 5G bands with simulated anomalous signals. This dataset is suitable for training various object detection networks and developing robust deep learning models for accurate and efficient anomaly detection in real-world environments.
 
 ## Paper Link
-Under Review
+DOI:10.1109/ACCESS.2024.3521946 (https://ieeexplore.ieee.org/document/10813361)
 
 ## Dataset Features
 
